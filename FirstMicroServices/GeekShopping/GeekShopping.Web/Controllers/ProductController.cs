@@ -18,7 +18,7 @@ namespace GeekShopping.Web.Controllers
 
         public async Task<IActionResult> ProductIndex()
         {
-            IEnumerable<ProductModel> prodcuts = await _productService.FindAllProducts("");
+            IEnumerable<ProductViewModel> prodcuts = await _productService.FindAllProducts("");
             return View(prodcuts);
         }
 
@@ -29,7 +29,7 @@ namespace GeekShopping.Web.Controllers
 
         [Authorize]
         [HttpPost]
-        public async Task<IActionResult> ProductCreate(ProductModel product)
+        public async Task<IActionResult> ProductCreate(ProductViewModel product)
         {
             if (ModelState.IsValid)
             {
@@ -45,14 +45,14 @@ namespace GeekShopping.Web.Controllers
         public async Task<IActionResult> ProductUpdate(int id)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
-            ProductModel product = await _productService.FindProductById(id, token);
+            ProductViewModel product = await _productService.FindProductById(id, token);
             if (product != null) return View(product);
             return NotFound();
         }
 
         [Authorize]
         [HttpPost]
-        public async Task<IActionResult> ProductUpdate(ProductModel product)
+        public async Task<IActionResult> ProductUpdate(ProductViewModel product)
         {
             if (ModelState.IsValid)
             {
@@ -69,14 +69,14 @@ namespace GeekShopping.Web.Controllers
         public async Task<IActionResult> ProductDelete(int id)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
-            ProductModel product = await _productService.FindProductById(id, token);
+            ProductViewModel product = await _productService.FindProductById(id, token);
             if (product != null) return View(product);
             return NotFound();
         }
 
         [Authorize(Roles = Role.Admin)]
         [HttpPost]
-        public async Task<IActionResult> ProductDelete(ProductModel product)
+        public async Task<IActionResult> ProductDelete(ProductViewModel product)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
             var response = await _productService.DeleteProductById(product.Id, token);

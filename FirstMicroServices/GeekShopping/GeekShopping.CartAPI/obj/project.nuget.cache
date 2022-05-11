@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "P39trStzYZ/fL9s8ZMAXmcmd1wCPg+QcJhsXTtQN9HxizIn5o04Z+LTbIU+bdEZeITy21tbeT09ehWjHikC1/A==",
+  "dgSpecHash": "DzwLDwiWHKtB5Hbjj2pVxqZgi3e+Vlhx9mPriGX+nEHldjLtdhgT6TTBIDI/ivrNuzMIzDhy+wJmrTUnKPwk5w==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\microservices-dotnet-6\\FirstMicroServices\\GeekShopping\\GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj",
   "expectedPackageFiles": [

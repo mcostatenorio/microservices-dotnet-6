@@ -1,5 +1,6 @@
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.Development.json
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.json
+C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-87C1CB405F8668371B6A16428B016CBB.json
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.staticwebassets.runtime.json
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.exe
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.deps.json
@@ -52,4 +53,3 @@ C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.pdb
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.genruntimeconfig.cache
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\ref\GeekShopping.IdentityServer.dll
-C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-87C1CB405F8668371B6A16428B016CBB.json
