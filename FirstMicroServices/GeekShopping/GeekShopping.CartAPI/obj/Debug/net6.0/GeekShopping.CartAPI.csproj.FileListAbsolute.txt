@@ -22,11 +22,14 @@ C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\MySqlConnector.dll
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.csproj.AssemblyReference.cache
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.AssemblyInfoInputs.cache
@@ -43,6 +46,3 @@ C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
-C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
-C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.dll
-C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
