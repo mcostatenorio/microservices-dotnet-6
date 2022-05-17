@@ -43,3 +43,6 @@ C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
 C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Projetos\microservices-dotnet-6\FirstMicroServices\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
