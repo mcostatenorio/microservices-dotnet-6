@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+Aq3u8+reXepjCO8mSO/P7q9p8jCTiGRtfr+SbPlgAEJAQH13qgeJ+BT1v0tZrrC83dWMjOJ1sMy3dTu5XpX1g==",
+  "dgSpecHash": "yUKQkUsG7aEuguNA80GrQfdQCRxRzgEEQlMRSoP2PC6WEGsTEn/hyF8ZRbWqEwtenAkMHcw7nVADcTVzWVRs7A==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\microservices-dotnet-6\\FirstMicroServices\\GeekShopping\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
   "expectedPackageFiles": [

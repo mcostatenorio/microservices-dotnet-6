@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Af5B4t562pIrnjTXFs5Nx28PqkAsVi3hD2o5RYb62nsA3lLtllCYOCDtbi1gxax9cU3zH7a9IUXDAmo0ozAXHQ==",
+  "dgSpecHash": "F4WLkHXEIEInNVliexf+xET8W8Yzd26eevh2Af2Fkp7bvbHv9DpdHU2smWtACuLTanHyd9JdbDNG29CZMPINbw==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\microservices-dotnet-6\\FirstMicroServices\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [

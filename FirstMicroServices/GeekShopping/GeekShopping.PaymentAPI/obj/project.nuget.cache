@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lLI5Dh2cDAWfjuMvlYzblICMSZsNRepqD/3Rbn99YovlN4+7RrgyxOm4HZa0EmPu4u4cuvnzPZQAzQpriFzI/A==",
+  "dgSpecHash": "8B8E5E/hxXHXbpN7uGfN/A7eR3fzDqBisiR7Ju4x10lXdT1mVRlnLepmhYXk4fkoML8CNOOwljRtwuu1ufIoRw==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\microservices-dotnet-6\\FirstMicroServices\\GeekShopping\\GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj",
   "expectedPackageFiles": [

@@ -1,7 +1,7 @@
-﻿using GeekShopping.CartAPI.Repository;
-using GeekShopping.OrderAPI.Messages;
+﻿using GeekShopping.OrderAPI.Messages;
 using GeekShopping.OrderAPI.Model;
 using GeekShopping.OrderAPI.RabbitMQSender;
+using GeekShopping.OrderAPI.Repository;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using System.Text;

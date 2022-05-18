@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ek7zNO4L0e3rFHR5gSRZ1LDtgmUB5CUxi31trIJsi+xwkpxGlXK1EjDw3fVLVehre4KxPqb4/ZM0z851zErMEw==",
+  "dgSpecHash": "BqxTW9PsEEaqQbcFT04ek83gBkYc8rx1B+CSK5uvJo3K3YuHFAZZ+wlXk3NXRLIL+Y/Bx0bUvuPzOp/INd8Haw==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\microservices-dotnet-6\\FirstMicroServices\\GeekShopping\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
   "expectedPackageFiles": [],

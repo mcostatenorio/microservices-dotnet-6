@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Qxldpj3UQOPq1ZO54BIAzXX2Lm9CgBLLXk4SZ7ENfdlWDVkhrSD9wJj/M0TMHxCWvJSmqa2pRqvmJ3t9BMqh8A==",
+  "dgSpecHash": "BymuIAP9upJNlEraA5RQGV/LXSM/D212CoC0xxDemmSGNlh5HT+8IIXvl/EAzubbc4wd+d/XI5egeZTNDWDv5w==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\microservices-dotnet-6\\FirstMicroServices\\GeekShopping\\GeekShopping.CouponAPI\\GeekShopping.CouponAPI.csproj",
   "expectedPackageFiles": [
